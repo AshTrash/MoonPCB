@@ -1,0 +1,11 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "IMU")(type "KiCad")(uri "${KIPRJMOD}/Component Library/BMI323/KiCADv6/2025-10-18_01-40-53.kicad_sym")(options "")(descr ""))
+  (lib (name "Flash Storage")(type "KiCad")(uri "${KIPRJMOD}/Component Library/SST25VF010A_33_4C_SAE/KiCADv6/2025-11-08_01-08-39.kicad_sym")(options "")(descr ""))
+  (lib (name "LDO")(type "KiCad")(uri "${KIPRJMOD}/Component Library/MIC5501_3_0YM5_TR/KiCADv6/2025-11-08_01-34-17.kicad_sym")(options "")(descr ""))
+  (lib (name "Altimeter")(type "KiCad")(uri "${KIPRJMOD}/Component Library/BMP390/KiCADv6/2025-11-08_01-56-04.kicad_sym")(options "")(descr ""))
+  (lib (name "LIPO term")(type "KiCad")(uri "${KIPRJMOD}/Component Library/647676_2/647676-2.kicad_sym")(options "")(descr ""))
+  (lib (name "Resonator Clock")(type "KiCad")(uri "${KIPRJMOD}/Component Library/ECS_327TXO_33_TR/ECS-327TXO-33-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "NEW_IMU")(type "KiCad")(uri "${KIPRJMOD}/Component Library/BNO055/BNO055.kicad_sym")(options "")(descr ""))
+  (lib (name "NEW_LDO")(type "KiCad")(uri "${KIPRJMOD}/Component Library/LMS8117AMP_3_3/KiCADv6/2026-01-30_00-34-04.kicad_sym")(options "")(descr ""))
+)
