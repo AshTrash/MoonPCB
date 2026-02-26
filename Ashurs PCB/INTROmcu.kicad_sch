@@ -3744,7 +3744,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 109.22 133.35 0)
 			(effects
 				(font
@@ -4094,7 +4094,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 146.05 102.87 0)
 			(effects
 				(font
@@ -4795,7 +4795,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Jumper:SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm"
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
 			(at 90.17 109.22 0)
 			(effects
 				(font
@@ -5023,7 +5023,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_SOD-123F"
 			(at 109.22 128.27 0)
 			(effects
 				(font
