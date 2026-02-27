@@ -7913,7 +7913,7 @@
 			)
 		)
 	)
-	(global_label "USB_TXD"
+	(global_label "USB_RXD"
 		(shape input)
 		(at 166.37 57.15 0)
 		(fields_autoplaced yes)
@@ -7925,7 +7925,7 @@
 		)
 		(uuid "b032d1e5-c3b8-4049-a314-7bd4e6195ef2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.5799 57.15 0)
+			(at 177.8823 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8111,7 +8111,7 @@
 			)
 		)
 	)
-	(global_label "USB_RXD"
+	(global_label "USB_TXD"
 		(shape input)
 		(at 166.37 59.69 0)
 		(fields_autoplaced yes)
@@ -8123,7 +8123,7 @@
 		)
 		(uuid "e59788b4-b9c6-49cf-ad1a-0111b03a4eb0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 177.8823 59.69 0)
+			(at 177.5799 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12515,7 +12515,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
+		(property "Footprint" "Package_TO_SOT_SMD:TSOT-23"
 			(at 96.52 121.92 0)
 			(effects
 				(font
