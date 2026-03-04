@@ -4016,7 +4016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "footprint:10LGA_2X2X0p75_BOS"
+		(property "Footprint" "footprint:MP04A_TEX"
 			(at 31.75 130.81 0)
 			(effects
 				(font
